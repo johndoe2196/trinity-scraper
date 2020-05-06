@@ -1,0 +1,16 @@
+{
+    "name": "trinity-scraper-frontend",
+    "version": "0.0.1",
+    "description": "Frontend for Trinity registration scraper (for generation encrypted auth strings)",
+    "main": "index.js",
+    "scripts": {
+        "build-prod": "parcel build index.html",
+        "build-dev": "parcel index.html"
+    },
+    "author": "John Doe",
+    "license": "MIT",
+    "devDependencies": {
+        "parcel-bundler": "^1.12.4"
+    },
+    "dependencies": {}
+}

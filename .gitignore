@@ -1,0 +1,12 @@
+# vscode setup
+/.vscode
+
+# dependencies
+/backend/node_modules
+/frontend/node_modules
+
+# environment variables
+/backend/config/.env
+
+# build cache etc.
+/frontend/.cache
